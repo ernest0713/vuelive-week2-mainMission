@@ -86,7 +86,7 @@ function init(){
         // console.log(link);
         productListBtn.setAttribute('href', link);
     })
-    window.onunload = logout();
+    // window.onunload = logout();
 }
 
 
